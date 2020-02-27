@@ -1,4 +1,13 @@
-# Marlin 3D Printer Firmware
+#  CR-10 - SKR 1.4Turbo - Marlin 2.0
+
+- 2209 uart for x,y,z,e
+- sensorless homing
+- hemera extruder
+
+If "EEPROM version mismatch error" appears use "M502" to load default config and "M500" to store them to the EEPROM, after a powercycle the error should be fixed.
+
+
+## Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
