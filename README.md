@@ -2,8 +2,9 @@
 
 - 2209 uart for x,y,z,e
 - sensorless homing
-- hemera extruder
+- hemera extruder (not yet implemented)
 - Bltouch
+- Stock display and everything else
 
 If "EEPROM version mismatch error" appears use "M502" to load default config and "M500" to store them to the EEPROM, after a powercycle the error should be fixed.
 
