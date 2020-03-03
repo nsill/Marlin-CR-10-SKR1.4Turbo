@@ -5,8 +5,12 @@
 - hemera extruder
 - Bltouch
 
+TODO:
+- Linear advanced
+
 If "EEPROM version mismatch error" appears use "M502" to load default config and "M500" to store them to the EEPROM, after a powercycle the error should be fixed.
 
+Used this mount: [Link](https://www.thingiverse.com/thing:4061250)
 
 ## Marlin 3D Printer Firmware
 
