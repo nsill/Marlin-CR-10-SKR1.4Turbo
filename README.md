@@ -2,8 +2,9 @@
 
 - 2209 uart for x,y,z,e
 - sensorless homing
-- hemera extruder
+- hemera extruder (not yet implemented)
 - Bltouch
+- Stock display and everything else
 
 TODO:
 - Linear advanced
