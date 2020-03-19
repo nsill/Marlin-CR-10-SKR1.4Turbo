@@ -5,8 +5,7 @@
 - hemera extruder
 - Bltouch
 - Stock display and everything else
-
-TODO:
+- Volcano 0.8mm nozzle
 - Linear advanced
 
 If "EEPROM version mismatch error" appears use "M502" to load default config and "M500" to store them to the EEPROM, after a powercycle the error should be fixed.
